@@ -20,6 +20,9 @@ class IntroScreen extends StatelessWidget{
                 Text('Nguyễn Hồng Tồn', style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold, color: Colors.black),),
                 SizedBox(height: 10,),
                 Text('Thành phố Tuy Hòa, tỉnh Phú Yên', style: TextStyle(fontSize: 20, fontWeight: FontWeight.normal, color: Colors.black),),
+                TextField(
+                  
+                )
               ],
             ),
           )
