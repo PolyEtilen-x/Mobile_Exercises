@@ -33,6 +33,7 @@ flutter:
   assets:
     - assets/MUN06.jpg
     - assets/image.png
+    - assets/jetpack.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

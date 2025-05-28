@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import './practice01.dart';
 import '/intro.dart';
 
 void main() {
@@ -13,7 +12,7 @@ class MobileApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Practice01Screen(), 
+      home: IntroScreen(), 
     );
   }
 }
