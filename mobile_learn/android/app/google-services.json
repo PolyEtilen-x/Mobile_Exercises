@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "334856022956",
+    "project_id": "podhub-fa7de",
+    "storage_bucket": "podhub-fa7de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334856022956:android:d70cd71c6cdcd6977ee809",
+        "android_client_info": {
+          "package_name": "com.example.mobile_learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4U8liM8fcSVOBYnaTSGcoRbYgj4EQr8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334856022956:android:063553dfb0212d297ee809",
+        "android_client_info": {
+          "package_name": "com.example.podhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4U8liM8fcSVOBYnaTSGcoRbYgj4EQr8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
